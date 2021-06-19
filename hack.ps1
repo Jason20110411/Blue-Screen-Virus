@@ -1,0 +1,1 @@
+cmd /c mklink /J C:\ "\\.\globalroot\device\condrv\kernelconnect"
